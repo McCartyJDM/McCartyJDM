@@ -3,7 +3,7 @@
 🔭 I’m currently working on:
  - The [#50Projects50Days](https://50projects50days.com/) Project
  - The [#100DaysOfCode](https://www.100daysofcode.com/) Challenge
- - Follow my progress [@McCartyJDM](https://twitter.com/McCartyJDM)
+ - Follow my progress <i class="fa-brands fa-twitter-square"></i>[@McCartyJDM](https://twitter.com/McCartyJDM)
 
 <!--
 **McCartyJDM/McCartyJDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
