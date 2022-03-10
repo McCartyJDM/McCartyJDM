@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-🔭 I’m currently working on...
- [#50Projects50Days](https://50projects50days.com/) project
- [#100DaysOfCode](https://www.100daysofcode.com/) challenge
+🔭 I’m currently working on:
+ - The [#50Projects50Days](https://50projects50days.com/) Project
+ - The [#100DaysOfCode](https://www.100daysofcode.com/) Challenge
+ - Follow my progress [@McCartyJDM](https://twitter.com/McCartyJDM)
 
 <!--
 **McCartyJDM/McCartyJDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
