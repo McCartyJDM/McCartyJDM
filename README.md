@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello 👋 Thanks for stopping in!
 
 🔭 I’m currently working on:
  - The [#50Projects50Days](https://50projects50days.com/) Project
